@@ -1,0 +1,276 @@
+[
+  {
+    "timestamp": "2026-09-03 14:09:58",
+    "type": "RAG_QUERY",
+    "prompt": "explain me all problem",
+    "response": "The problems addressed by the AgriVault system are:\n\n1. **Post-Harvest Losses**: A significant portion of the onions and potatoes produced in India every year is lost after harvesting due to poor storage conditions.\n2. **Inconsistent Ventilation**: Traditional storage facilities rely on manual monitoring and inconsistent ventilation, which can lead to inconsistent and potentially inadequate ventilation levels.\n3. **Limited Environmental Data**: The current storage facilities lack the ability to collect and analyze environmental data, such as temperature, humidity, and ventilation levels, in real-time.\n4. **Delayed Detection of Spoilage Conditions**: By the time a farmer notices deterioration, the damage may already be significant, as the current systems are unable to detect spoilage conditions in a timely manner.\n5. **Manual Monitoring**: Traditional storage facilities require someone to stand inside the storage facility to manually monitor the conditions, which can be time-consuming and labor-intensive.\n6. **Inadequate Detection of Risks**: The current systems are unable to continuously monitor the storage conditions and detect risks such as temperature, humidity, and poor ventilation before they become critical.\n\nThese problems lead to significant losses for farmers, as they are unable to maintain optimal storage conditions, resulting in spoilage and reduced profits."
+  },
+  {
+    "timestamp": "2026-09-03 14:12:20",
+    "type": "RAG_QUERY",
+    "prompt": "what types problem statements",
+    "response": "The problem statements are:\n\n1. Post-Harvest Losses:\n\"India produces millions of tonnes of onions and potatoes every year, but a significant portion is lost after harvesting because of poor storage conditions.\"\n\n2. Traditional storage facilities:\n\"The real issue: Traditional storage facilities depend on manual monitoring, inconsistent ventilation, limited environmental data, and delayed detection of spoilage conditions.\"\n\nThese two statements are interconnected and describe the same problem, with the first statement being a broader statement about the issue and the second statement providing more specific details about the characteristics of traditional storage facilities."
+  },
+  {
+    "timestamp": "2026-09-03 14:19:34",
+    "type": "TEXT_QUERY",
+    "prompt": "give problem statement",
+    "response": "Here are a few problem statements across various domains:\n\n1. **Data Science**: Given a dataset of customer transactions, develop a model to predict the likelihood of churn (i.e., whether a customer will stop being a customer) based on historical purchase data and demographic information.\n\n2. **Computer Science**: Write a program to find all unique paths in a grid that starts at the top-left corner and ends at the bottom-right corner. The path can only move either right or down at any point in time.\n\n3. **Mathematics**: A snail is at the bottom of a 20-foot well. Each day, it climbs up the well 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?\n\n4. **Artificial Intelligence**: Develop a chatbot that can engage in a conversation with a user, using natural language processing (NLP) techniques to understand the user's intent and respond accordingly. The chatbot should be able to:\n\n   - Understand basic commands (e.g., \"what's your name?\", \"how are you?\")\n   - Respond to user queries with relevant information\n   - Handle follow-up questions and engage in a conversation\n   - Use context to understand the user's intent\n\n5. **Algorithms**: Given a set of unsorted integers, develop an algorithm to sort the numbers in ascending order using the merge sort technique.\n\n6. **Cybersecurity**: A hacker is trying to crack a password by guessing the correct sequence of characters. Develop an algorithm to predict the correct password, using the following constraints:\n\n   - The password is a 4-character sequence\n   - The sequence consists of letters and numbers\n   - The first character must be a vowel\n   - The second character must be a consonant\n   - The third character must be a digit\n   - The fourth character must be a special character\n\nWhich one of these problem statements would you like to solve?"
+  },
+  {
+    "timestamp": "2026-09-03 14:22:02",
+    "type": "RAG_QUERY",
+    "prompt": "how agrivualt work",
+    "response": "Based on the provided technical manual context, AgriVault is a system designed for monitoring and managing agricultural storage conditions. Here's how it works:\n\n1. **Continuous Monitoring**: AgriVault is equipped with sensors that continuously collect data on temperature, humidity, and other environmental factors.\n2. **Real-Time Data Collection**: The collected data is transmitted in real-time to provide instant visibility into storage conditions.\n3. **Automated Response**: When risk thresholds are crossed (e.g., temperature or humidity levels become critical), the system activates ventilation automatically to prevent damage to stored crops.\n4. **Software Insights**: Historical data and reports are generated to help operators make informed decisions about storage management, enabling them to optimize storage conditions and prevent losses.\n\nIn summary, AgriVault works by continuously monitoring storage conditions, providing real-time data, and automatically taking corrective action when necessary, all while providing actionable insights to help farmers optimize their storage management."
+  },
+  {
+    "timestamp": "2026-09-03 14:59:33",
+    "type": "TEXT_QUERY",
+    "prompt": "hi",
+    "response": "How can I assist you today?"
+  },
+  {
+    "timestamp": "2026-09-03 14:59:48",
+    "type": "TEXT_QUERY",
+    "prompt": "hi",
+    "response": "Hello! How can I assist you today?"
+  },
+  {
+    "timestamp": "2026-09-03 15:00:03",
+    "type": "TEXT_QUERY",
+    "prompt": "hi",
+    "response": "How can I assist you today?"
+  },
+  {
+    "timestamp": "2026-09-04 11:03:45",
+    "type": "SYSTEM",
+    "prompt": "Vector DB Reset",
+    "response": "Cleared all indexed documents from ChromaDB"
+  },
+  {
+    "timestamp": "2026-09-04 11:05:07",
+    "type": "TEXT_QUERY",
+    "prompt": "what my dream",
+    "response": "I'd love to help you explore your dreams. What do you mean by \"my dream\"? Are you referring to:\n\n1. A specific dream you had recently?\n2. A long-held aspiration or goal you'd like to achieve?\n3. A creative idea or project that excites you?\n4. Something else entirely?\n\nPlease feel free to share as much or as little as you'd like, and I'll do my best to help you explore and understand your dream."
+  },
+  {
+    "timestamp": "2026-09-04 11:05:28",
+    "type": "SYSTEM",
+    "prompt": "Vector DB Reset",
+    "response": "Cleared all indexed documents from ChromaDB"
+  },
+  {
+    "timestamp": "2026-09-04 11:17:36",
+    "type": "RAG_INGESTION",
+    "prompt": "Samsung-Electronics (1).pdf",
+    "response": "Stored 8 text chunks in Vector DB"
+  },
+  {
+    "timestamp": "2026-09-04 11:18:29",
+    "type": "RAG_QUERY",
+    "prompt": "company kab start hue thi",
+    "response": "Samsung Electronics ki establishment 1969 mein hue thi."
+  },
+  {
+    "timestamp": "2026-09-04 11:28:50",
+    "type": "RAG_QUERY",
+    "prompt": "sumsung company ka owner kon hai",
+    "response": "Samsung company ka owner khud se nahin hai. Samsung ki sthapna 1969 mein ki gayi thi, aur iska padon ka samarthan South Korea ke ek vyaktigat vyapari, Lee Byung-chul ne kiya tha. Lee Byung-chul ne Samsung ki sthapna ki aur isne company ko viksit kiya, jisse yeh ek badi aur safal vyapari company ban gayi."
+  },
+  {
+    "timestamp": "2026-09-04 11:39:06",
+    "type": "RAG_QUERY",
+    "prompt": "which name is better saad or jishan",
+    "response": "There is no information provided in the technical manual context about the names \"saad\" or \"jishan\" being compared or evaluated. The manual only discusses challenges, pricing, and competition faced by Samsung Electronics, but does not mention or refer to individual names."
+  },
+  {
+    "timestamp": "2026-09-04 11:39:42",
+    "type": "RAG_QUERY",
+    "prompt": "what is samsung",
+    "response": "Samsung is a South Korean multinational company, founded in 1969, and one of the world's major technology companies, operating across various product categories including smartphones, semiconductors, TVs, home appliances, and other electronic products."
+  },
+  {
+    "timestamp": "2026-09-04 11:39:50",
+    "type": "RAG_QUERY",
+    "prompt": "what is samsung",
+    "response": "According to the provided technical manual, Samsung is a South Korean multinational company, founded in 1969, and one of the world's major technology companies, operating across various product categories such as smartphones, semiconductors, TVs, home appliances, and more."
+  },
+  {
+    "timestamp": "2026-09-04 12:12:00",
+    "type": "AGENT_ACTION_EXECUTION",
+    "prompt": "Command: EMERGENCY_SHUTDOWN | Val: None",
+    "response": "Emergency shutdown triggered! Valve CLOSED and Pump STOPPED."
+  },
+  {
+    "timestamp": "2026-09-04 12:12:05",
+    "type": "AGENT_ACTION_EXECUTION",
+    "prompt": "Command: SET_PUMP_SPEED | Val: 85",
+    "response": "Cooling pump speed adjusted to 85%."
+  },
+  {
+    "timestamp": "2026-09-04 12:12:07",
+    "type": "AGENT_ACTION_EXECUTION",
+    "prompt": "Command: TRIGGER_ALERT | Val: Overheating Sector 4",
+    "response": "Maintenance alert broadcasted: 'Overheating Sector 4'"
+  },
+  {
+    "timestamp": "2026-09-04 12:12:09",
+    "type": "AGENT_ACTION_EXECUTION",
+    "prompt": "Command: EMERGENCY_SHUTDOWN | Val: None",
+    "response": "Emergency shutdown triggered! Valve CLOSED and Pump STOPPED."
+  },
+  {
+    "timestamp": "2026-09-04 12:12:09",
+    "type": "AGENT_ACTION_EXECUTION",
+    "prompt": "Command: SET_PUMP_SPEED | Val: 85",
+    "response": "Cooling pump speed adjusted to 85%."
+  },
+  {
+    "timestamp": "2026-09-04 12:12:09",
+    "type": "AGENT_ACTION_EXECUTION",
+    "prompt": "Command: TRIGGER_ALERT | Val: Overheating Sector 4",
+    "response": "Maintenance alert broadcasted: 'Overheating Sector 4'"
+  },
+  {
+    "timestamp": "2026-09-05 15:00:07",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "what is safety protocol for petrol pump overheating"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 15:00:29",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "what is safety protocol for petrol pump overheating"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 15:06:14",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "What are the step-by-step safety protocols when a centrifugal pump overheats?"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 15:22:29",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "What is the maximum safe operatin"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 15:31:23",
+    "action": "RAG_QUERY",
+    "details": {
+      "query": "how i upload manual"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 15:44:51",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "what is the immediate safety protocols when an industrial water pump overheats"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 15:45:14",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "what is the immediate safety protocols when an industrial water pump overheats"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 16:05:41",
+    "action": "SCADA_EXECUTION",
+    "details": {
+      "target": "PUMP_MOTOR",
+      "command": "SET_SPEED",
+      "value": 85.0
+    }
+  },
+  {
+    "timestamp": "2026-09-05 16:46:01",
+    "action": "VISION_INSPECTION",
+    "details": {
+      "filename": "download (1).jpg"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 16:55:59",
+    "action": "VISION_INSPECTION",
+    "details": {
+      "filename": "download (1).jpg"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 16:57:30",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "what is the basic petrolpump safety"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 17:12:43",
+    "action": "VISION_INSPECTION",
+    "details": {
+      "filename": "download (1).jpg"
+    }
+  },
+  {
+    "timestamp": "2026-09-05 17:13:51",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "what is the safety of petrol pump"
+    }
+  },
+  {
+    "timestamp": "2026-09-09 09:53:08",
+    "action": "TEXT_QUERY",
+    "details": {
+      "prompt": "what is safety feature of cyber securty"
+    }
+  },
+  {
+    "timestamp": "2026-09-09 09:53:59",
+    "action": "VISION_INSPECTION",
+    "details": {
+      "filename": "hand made lather jacket.jpeg"
+    }
+  },
+  {
+    "timestamp": "2026-09-09 09:55:05",
+    "action": "VISION_INSPECTION",
+    "details": {
+      "filename": "hand made lather jacket.jpeg"
+    }
+  },
+  {
+    "timestamp": "2026-09-09 09:55:18",
+    "action": "VISION_INSPECTION",
+    "details": {
+      "filename": "hand made lather jacket.jpeg"
+    }
+  },
+  {
+    "timestamp": "2026-09-09 10:00:53",
+    "action": "RAG_QUERY",
+    "details": {
+      "query": "give summry"
+    }
+  },
+  {
+    "timestamp": "2026-09-09 10:01:21",
+    "action": "RAG_QUERY",
+    "details": {
+      "query": "give summary"
+    }
+  },
+  {
+    "timestamp": "2026-09-09 10:03:12",
+    "action": "RAG_QUERY",
+    "details": {
+      "query": "isme konse konse tools use kiye hai"
+    }
+  }
+]
